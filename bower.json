@@ -1,0 +1,22 @@
+{
+  "name": "progressive-elements",
+  "description": "Building blocks for progressive web apps (PWA)",
+  "keywords": [
+    "element-collection",
+    "web-components",
+    "webcomponents",
+    "web-component",
+    "webcomponent",
+    "progressive-web-apps",
+    "pwa",
+    "polymer"
+  ],
+  "license": "CC0-1.0",
+  "dependencies": {
+    "device-orientation": "abdonrd/device-orientation",
+    "geo-location": "ebidel/geo-location",
+    "media-session": "jorgecasar/media-session",
+    "payment-request": "jorgecasar/payment-request",
+    "platinum-elements": "PolymerElements/platinum-elements"
+  }
+}
