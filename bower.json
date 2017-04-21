@@ -17,6 +17,7 @@
     "geo-location": "ebidel/geo-location",
     "media-session": "jorgecasar/media-session",
     "payment-request": "jorgecasar/payment-request",
-    "platinum-elements": "PolymerElements/platinum-elements"
+    "platinum-elements": "PolymerElements/platinum-elements",
+    "app-media": "PolymerElements/app-media"
   }
 }
