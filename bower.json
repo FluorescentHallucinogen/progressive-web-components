@@ -13,11 +13,12 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
+    "app-media": "PolymerElements/app-media",
     "device-orientation": "abdonrd/device-orientation",
     "geo-location": "ebidel/geo-location",
     "media-session": "jorgecasar/media-session",
     "payment-request": "jorgecasar/payment-request",
-    "platinum-elements": "PolymerElements/platinum-elements",
-    "app-media": "PolymerElements/app-media"
+    "polymer-nfc": "freudFlintstone/polymer-nfc",
+    "platinum-bluetooth": "PolymerElements/platinum-bluetooth"
   }
 }
