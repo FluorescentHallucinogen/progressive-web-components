@@ -19,6 +19,7 @@
     "media-session": "jorgecasar/media-session",
     "payment-request": "jorgecasar/payment-request",
     "polymer-nfc": "freudFlintstone/polymer-nfc",
-    "platinum-bluetooth": "googlearchive/platinum-bluetooth"
+    "platinum-bluetooth": "googlearchive/platinum-bluetooth",
+    "pwa-install": "ProgressiveWebComponents/pwa-install"
   }
 }
